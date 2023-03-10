@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-repository example module 2 Henry
+My example of making a repository 
